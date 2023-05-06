@@ -1,0 +1,18 @@
+c:\users\hp 2018\documents\visual studio 2012\Projects\Abstraccion\Abstraccion\bin\Debug\Abstraccion.exe.config
+c:\users\hp 2018\documents\visual studio 2012\Projects\Abstraccion\Abstraccion\bin\Debug\Abstraccion.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Abstraccion\Abstraccion\bin\Debug\Abstraccion.pdb
+c:\users\hp 2018\documents\visual studio 2012\Projects\Abstraccion\Abstraccion\obj\Debug\Abstraccion.csprojResolveAssemblyReference.cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Abstraccion\Abstraccion\obj\Debug\Abstraccion.Form1.resources
+c:\users\hp 2018\documents\visual studio 2012\Projects\Abstraccion\Abstraccion\obj\Debug\Abstraccion.Properties.Resources.resources
+c:\users\hp 2018\documents\visual studio 2012\Projects\Abstraccion\Abstraccion\obj\Debug\Abstraccion.csproj.GenerateResource.Cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Abstraccion\Abstraccion\obj\Debug\Abstraccion.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Abstraccion\Abstraccion\obj\Debug\Abstraccion.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Abstraccion\Abstraccion\bin\Debug\Abstraccion.exe.config
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Abstraccion\Abstraccion\obj\Debug\Abstraccion.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Abstraccion\Abstraccion\obj\Debug\Abstraccion.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Abstraccion\Abstraccion\bin\Debug\Abstraccion.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Abstraccion\Abstraccion\bin\Debug\Abstraccion.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Abstraccion\Abstraccion\obj\Debug\Abstraccion.csprojResolveAssemblyReference.cache
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Abstraccion\Abstraccion\obj\Debug\Abstraccion.Form1.resources
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Abstraccion\Abstraccion\obj\Debug\Abstraccion.Properties.Resources.resources
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Abstraccion\Abstraccion\obj\Debug\Abstraccion.csproj.GenerateResource.Cache
